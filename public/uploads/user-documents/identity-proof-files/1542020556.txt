@@ -1,0 +1,42 @@
+paypal:
+
+configuration pay pal mail:maigaard.dk@gmail.com kode:tabdig4nemid
+
+techvillage_personal@gmail.com
+techvillage_business@gmail.com
+
+pass: 147258369
+
+techvillage_business@gmail.com:
+
+techvillage_business_api1.gmail.com
+9DDYZX2JLA6QL668
+AFcWxV21C7fd0v3bYYYRCpSSRl31ABayz5pdk84jno7.Udj6-U8ffwbT
+
+Credit Card Number:
+4032038071364214
+Credit Card Type:
+VISA
+Expiration Date:
+02/2022
+
+techvillage_personal@gmail.com:
+Credit Card Number:
+4032032348467520
+Credit Card Type:
+VISA
+Expiration Date:
+02/2022
+
+
+original client credintial:
+http://www.sharebnb.dk
+
+API username
+maigaard.dk_api1.gmail.com
+
+API Password
+SX2GF7G329JR8XSN
+
+Signature
+AFcWxV21C7fd0v3bYYYRCpSSRl31AieCc.k04JFzZp7nQzHNN5HbzG6h
